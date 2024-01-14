@@ -24,3 +24,8 @@
 - p1 = 0
 - p2 = a.b'
 - p3 = a.b
+
+### Logic Diagram
+
+![2 bit sq](https://github.com/SonalSinha237/Binary_Squaring/assets/78365433/f857eaeb-dc40-4008-8b3a-53f96ef39f3d)
+
