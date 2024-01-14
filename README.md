@@ -29,3 +29,8 @@
 
 ![2 bit sq](https://github.com/SonalSinha237/Binary_Squaring/assets/78365433/f857eaeb-dc40-4008-8b3a-53f96ef39f3d)
 
+![Untitled document](https://github.com/SonalSinha237/Binary_Squaring/assets/78365433/11cf83fa-d4bd-41f0-bace-8d2f82dcf7c1)
+
+
+
+
