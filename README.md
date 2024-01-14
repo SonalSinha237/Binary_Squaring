@@ -59,3 +59,5 @@
 
 ### Logic Diagram
 
+![3 bit sq](https://github.com/SonalSinha237/Binary_Squaring/assets/78365433/b17b4599-6858-478a-8a4f-9a55a8c6a886)
+
