@@ -45,3 +45,17 @@
 | 1 | 1 | 1 | 1  | 1  | 0  | 0  | 0  | 1  |
 
 
+- a,b,c: 3 bit input
+- p5, p4, p3, p2, p1, p0: 6 bit output
+
+### Boolean Equations:
+
+- p0 = c
+- p1 = 0
+- p2 = b.c'
+- p3 = (a^b).c
+- p4 = a.(b' + c) = a' + b.c' = a' + p2 = a.p2'
+- p5 = a.b
+
+### Logic Diagram
+
